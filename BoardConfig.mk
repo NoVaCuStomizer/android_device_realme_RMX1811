@@ -86,6 +86,6 @@ TW_USE_TOOLBOX := true
 TW_INCLUDE_REPACKTOOLS := true
 
 # PBRP specific build flags
-PB_TORCH_PATH := "/sys/class/flashlight"
+PB_TORCH_PATH := "/sys/class/leds/led:torch_0"
 
 
