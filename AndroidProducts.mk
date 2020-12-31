@@ -16,3 +16,8 @@
 
 PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/omni_RMX1811.mk
+
+COMMON_LUNCH_CHOICES := \
+	lineage_RMX1811-eng \
+	lineage_RX1811-userdebug \
+	lineage_RMX1811-user 
