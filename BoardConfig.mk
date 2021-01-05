@@ -89,6 +89,6 @@ TW_USE_TOOLBOX := true
 
 # TWRP specific build flags
 TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness"
-TW_INCLUDE_REPACKTOOLS := false 
-TW_INCLUDE_LIBRESETPROP := false
-TW_INCLUDE_RESETPROP := false
+TW_INCLUDE_REPACKTOOLS := true 
+TW_INCLUDE_LIBRESETPROP := true
+TW_INCLUDE_RESETPROP := true
