@@ -90,7 +90,7 @@ TW_INCLUDE_REPACKTOOLS := false
 
 
 #FBE
-
+BOARD_USES_QCOM_FBE_DECRYPTION := true
 
 # TWRP specific build flags
 TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness"
