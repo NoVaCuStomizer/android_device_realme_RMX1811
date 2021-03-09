@@ -8,8 +8,8 @@ jobs:
       GIT_NAME: 'NoVa CuStomizer'
       VERSION: '3.0.0'
       PBRP_MANIFEST: 'android-9.0'
-      VENDOR: 'asus'
-      DEVICE: 'X00P'
+      VENDOR: 'realme'
+      DEVICE: 'RMX1811'
    steps:
       - run:
           command: |
